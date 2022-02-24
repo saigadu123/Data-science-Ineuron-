@@ -1,0 +1,11 @@
+INFO:root:started
+INFO:root:Here I initialized the tuple
+INFO:root:using the index function
+WARNING:root:U should pass the tuple and the element u want to find the index
+INFO:root:Using the count function to count the element how many times it exists
+WARNING:root:Must pass the tuple and the element
+INFO:root:Here I initialized the tuple
+INFO:root:using the index function
+WARNING:root:U should pass the tuple and the element u want to find the index
+INFO:root:Using the count function to count the element how many times it exists
+WARNING:root:Must pass the tuple and the element

@@ -1,0 +1,130 @@
+INFO:root:Importing the pymongo package
+INFO:root:Importing the pandas and json packages
+INFO:root:Establishing connection between python and mongodb atlas
+WARNING:root:Use correct username and password to establish connection
+ERROR:root:Add parameters tls and tlsAllowInvalidCertificates to avoid serverselectiontimeout error
+INFO:root:Establishing connection between python and mongodb atlas
+WARNING:root:Use correct username and password to establish connection
+ERROR:root:Add parameters tls and tlsAllowInvalidCertificates to avoid serverselectiontimeout error
+INFO:root:Checking whether connection established or not
+INFO:root:Creating a database in mongodb
+DEBUG:parso.cache:pickle loaded: C:\Users\DELL\anaconda_IDE\lib\site-packages\pymongo\database.py
+DEBUG:parso.cache:pickle loaded: C:\Users\DELL\anaconda_IDE\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+DEBUG:parso.cache:pickle loaded: C:\Users\DELL\anaconda_IDE\lib\site-packages\pymongo\__init__.py
+DEBUG:parso.cache:pickle loaded: C:\Users\DELL\anaconda_IDE\lib\site-packages\pymongo\common.py
+INFO:root:Checking collections in database
+WARNING:root:There are no collections as of now
+INFO:root:Creating a collection in database
+INFO:root:Extracting the csv file into jupyter notebook
+ERROR:root:csv file should be in same directory
+INFO:root:Extracting the csv file into jupyter notebook
+ERROR:root:csv file should be in same directory
+INFO:root:data frame is converted into a dictionary of JSON file
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 2; new: 1
+DEBUG:parso.python.diff:-> code[replace] old[1:2] new[1:1]
+DEBUG:parso.python.diff:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:parso.python.diff:diff parser end
+DEBUG:parso.cache:pickle loaded: C:\Users\DELL\anaconda_IDE\lib\site-packages\pymongo\collection.py
+WARNING:root:There are no collections as of now
+INFO:root:Creating a collection in database
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 1; new: 1
+DEBUG:parso.python.diff:-> code[replace] old[1:1] new[1:1]
+DEBUG:parso.python.diff:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:parso.python.diff:diff parser end
+DEBUG:parso.cache:pickle loaded: C:\Users\DELL\anaconda_IDE\lib\site-packages\pandas\__init__.py
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 1; new: 1
+DEBUG:parso.python.diff:-> code[replace] old[1:1] new[1:1]
+DEBUG:parso.python.diff:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:parso.python.diff:diff parser end
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 1; new: 1
+DEBUG:parso.python.diff:-> code[replace] old[1:1] new[1:1]
+DEBUG:parso.python.diff:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:parso.python.diff:diff parser end
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 1; new: 1
+DEBUG:parso.python.diff:-> code[replace] old[1:1] new[1:1]
+DEBUG:parso.python.diff:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:parso.python.diff:diff parser end
+INFO:root:Importing the pymongo package
+INFO:root:Importing the pandas and json packages
+INFO:root:Establishing connection between python and mongodb atlas
+WARNING:root:Use correct username and password to establish connection
+ERROR:root:Add parameters tls and tlsAllowInvalidCertificates to avoid serverselectiontimeout error
+INFO:root:Checking whether connection established or not
+INFO:root:Creating a database in mongodb
+INFO:root:Checking collections in database
+WARNING:root:There are no collections as of now
+INFO:root:Creating a collection in database
+INFO:root:Extracting the csv file into jupyter notebook
+ERROR:root:csv file should be in same directory
+INFO:root:data frame is converted into a dictionary of JSON file
+DEBUG:parso.cache:pickle loaded: C:\Users\DELL\anaconda_IDE\lib\site-packages\pandas\__init__.py
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 1; new: 1
+DEBUG:parso.python.diff:-> code[replace] old[1:1] new[1:1]
+DEBUG:parso.python.diff:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:parso.python.diff:diff parser end
+DEBUG:parso.cache:pickle loaded: C:\Users\DELL\anaconda_IDE\lib\site-packages\pymongo\collection.py
+DEBUG:parso.cache:pickle loaded: C:\Users\DELL\anaconda_IDE\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+DEBUG:parso.cache:pickle loaded: C:\Users\DELL\anaconda_IDE\lib\site-packages\pymongo\__init__.py
+DEBUG:parso.cache:pickle loaded: C:\Users\DELL\anaconda_IDE\lib\site-packages\pymongo\common.py
+INFO:root:Importing the pymongo package
+INFO:root:Importing the pymongo package
+INFO:root:Importing the pandas and json packages
+INFO:root:Establishing connection between python and mongodb atlas
+INFO:root:Importing the pymongo package
+INFO:root:Importing the pandas and json packages
+INFO:root:Establishing connection between python and mongodb atlas
+INFO:root:Importing the pymongo package
+INFO:root:Importing the pandas and json packages
+INFO:root:Establishing connection between python and mongodb atlas
+WARNING:root:Use correct username and password to establish connection
+ERROR:root:Add parameters tls and tlsAllowInvalidCertificates to avoid serverselectiontimeout error
+INFO:root:Checking whether connection established or not
+INFO:root:Creating a database in mongodb
+INFO:root:Importing the pymongo package
+INFO:root:Importing the pandas and json packages
+INFO:root:Establishing connection between python and mongodb atlas
+WARNING:root:Use correct username and password to establish connection
+ERROR:root:Add parameters tls and tlsAllowInvalidCertificates to avoid serverselectiontimeout error
+INFO:root:Checking whether connection established or not
+INFO:root:Creating a database in mongodb
+INFO:root:Checking collections in database
+WARNING:root:There are no collections as of now
+INFO:root:Creating a collection in database
+INFO:root:Extracting the csv file into jupyter notebook
+ERROR:root:csv file should be in same directory
+INFO:root:data frame is converted into a dictionary of JSON file
+INFO:root:Checking the shape of the dataframe
+INFO:root:Printing all the data from csv file
+INFO:root:Splitting columns which are in the form of string separated by the semicolon
+WARNING:root:splitting out the multiindexing
+WARNING:root:Removing zeros from the data appended after the value
+INFO:root:Putting all the data into mongodb
+DEBUG:parso.cache:pickle loaded: C:\Users\DELL\anaconda_IDE\lib\site-packages\pymongo\collection.py
+DEBUG:parso.cache:pickle loaded: C:\Users\DELL\anaconda_IDE\lib\site-packages\jedi\third_party\typeshed\stdlib\2and3\builtins.pyi
+DEBUG:parso.cache:pickle loaded: C:\Users\DELL\anaconda_IDE\lib\site-packages\pymongo\__init__.py
+DEBUG:parso.cache:pickle loaded: C:\Users\DELL\anaconda_IDE\lib\site-packages\pymongo\common.py
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 1; new: 1
+DEBUG:parso.python.diff:-> code[replace] old[1:1] new[1:1]
+DEBUG:parso.python.diff:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:parso.python.diff:diff parser end
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 1; new: 1
+DEBUG:parso.python.diff:-> code[replace] old[1:1] new[1:1]
+DEBUG:parso.python.diff:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:parso.python.diff:diff parser end
+DEBUG:parso.python.diff:diff parser start
+DEBUG:parso.python.diff:line_lengths old: 1; new: 1
+DEBUG:parso.python.diff:-> code[replace] old[1:1] new[1:1]
+DEBUG:parso.python.diff:parse_part from 1 to 1 (to 0 in part parser)
+DEBUG:parso.python.diff:diff parser end
+INFO:root:Displaying data from collection
+INFO:root:selecting a data using where condition
+INFO:root:Selecting a data comparing data with values
+INFO:root:selecting a data from the either of the values

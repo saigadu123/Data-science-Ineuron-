@@ -1,0 +1,16 @@
+INFO:root:It will do addition operation
+INFO:root:It will do addition operation
+INFO:root:It will do addition operation
+INFO:root:It is taking input for the addition function
+INFO:root:It is taking input to do subtraction operation
+INFO:root:It will do addition operation
+INFO:root:It is taking input for the addition function
+INFO:root:It is taking input to do subtraction operation
+INFO:root:It will do addition operation
+INFO:root:It is taking input for the addition function
+INFO:root:It is taking input to do subtraction operation
+INFO:root:It will do addition operation
+ERROR:root:This will raise the exception
+INFO:root:It is taking input for the addition function
+INFO:root:It is taking input to do subtraction operation
+INFO:root:It will do addition operation

@@ -1,0 +1,20 @@
+INFO:root:Importing the Dict module which we were created
+INFO:root:Declaring the dictionary
+WARNING:root:Again declaring the dictionary to get new dictionary
+INFO:root:Assigning the copied to new variable
+INFO:root:Declaring the keys
+INFO:root:Assigning the value to the all keys
+INFO:root:Creating the new dictionary
+INFO:root:we get the value of the key that we passes through a function
+INFO:root:we get the value of the key that we passes through a function
+INFO:root:It will return the all the keys and values
+INFO:root:It will give the all keys present in the dictionary
+INFO:root:It will delete the last item present in the dictionary
+INFO:root:It will delete the item which the key passes through the function
+INFO:root:It will delete the last item present in the dictionary
+INFO:root:It will get the value of a key that we passes in the function 
+INFO:root:It will get the value of a key that we passes in the function 
+INFO:root:It will get the value of a key that we passes in the function 
+WARNING:root:If the key that passes u is not there in the dictionary simply it give None value
+INFO:root:It is used to add new item in the dictionary
+INFO:root:Values function returns the values present in the dictionary

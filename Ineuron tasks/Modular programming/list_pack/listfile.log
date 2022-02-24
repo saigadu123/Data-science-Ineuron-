@@ -1,0 +1,23 @@
+INFO:root:Pass the list and the element u want to append as an arguments
+INFO:root:Pass the list and the element u want to append as an arguments
+WARNING:root:Dont use of print statement
+INFO:root:Pass the list as an argument
+INFO:root:pass the list as an argument
+INFO:root:pass the list and element to count as an arguments
+INFO:root:Pass the two lists as an arguments
+INFO:root:Pass the two lists as an arguments
+INFO:root:Pass the list and the element which u want to find the index
+INFO:root:Pass the position and element to insert
+INFO:root:Pass the position and element to insert
+INFO:root:Pass the position and element to insert
+INFO:root:Pass the position and element to insert
+WARNING:root:It will add how many times u run
+INFO:root:Pass the list alone
+INFO:root:Pass the list alone
+INFO:root:It will remove the last element
+INFO:root:pass the list and the element u want to remove
+WARNING:root:It will remove one element if multiple values exist
+INFO:root:Pass the list alone
+INFO:root:Reversed the list
+INFO:root:pass the list alone
+INFO:root:It will return sorted list

@@ -1,0 +1,30 @@
+INFO:root:Importing the set module from set package
+INFO:root:Importing the set module from set package
+INFO:root:Declaring the set
+INFO:root:Using the add function element is added into the set
+INFO:root:Displaying the set
+WARNING:root:Integer element is passed in the add function
+INFO:root:Using the add function element is added into the set
+INFO:root:Using clear function Delete all the elements of the set
+INFO:root:Using clear function Delete all the elements of the set
+WARNING:root:Set is passed into the function
+INFO:root:Copy function is used to shallow copy the original one to other variable
+WARNING:root:Here I am declaring the new set
+INFO:root:This function will return the uncommon elements in the first set
+WARNING:root:I am declaring the second set
+INFO:root:This function will delete the uncommon elements in the first set
+INFO:root:This function will delete the uncommon elements in the first set
+INFO:root:It is used to delete the element that passes through the function
+WARNING:root:If the passed element is not there in the set simply returns none
+WARNING:root:It simply returns the none 10 is not there in the set
+INFO:root:It will give the common elements between two sets
+INFO:root:It will delete the common elements in the first set
+INFO:root:It will return True or False whether two sets are disjoint or not
+INFO:root:It will return True or False whether the first set is subset of second set
+INFO:root:It will return true or false whether the first set is the superset of the second set
+INFO:root:This will delete the top element of the set
+INFO:root:This will remove the element that passes through the function
+INFO:root:It will return the elements uncommon from both sets
+INFO:root:It will delete the uncommon elements from the first set
+INFO:root:This will return the all elements from both sets
+INFO:root:This will add the new set to the existing set
